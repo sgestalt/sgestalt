@@ -1,3 +1,3 @@
 - outpost of sg.
-- IRL i am on private gitea
-- and dislike any vendor-lockin;)
+- IRL using private gitea
+- and dislike any vendor-lock-in;)
